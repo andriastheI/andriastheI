@@ -1,5 +1,5 @@
 # 💫 About Me:
-They call me Dr. Dre, because I can cook. not music just code.
+They call me Dr. Dre, because I can cook. not music but code.
 
 
 # 💻 Tech Stack:
